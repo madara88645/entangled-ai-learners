@@ -1,3 +1,5 @@
+https://medium.com/@mehmet.ozel2701/entangled-ai-how-neural-networks-can-learn-from-each-other-without-sharing-data-beeeeadba451
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madara88645/entangled-ai-learners/blob/main/Entangled-AI/entangled_models_final.ipynb)
 
 # Entangled AI Learners (CNN + MLP)
